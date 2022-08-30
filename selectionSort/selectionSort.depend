@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661877255 source:d:\study\asufe\summer22\data structures\assignments\assignment3\selectionsort\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
